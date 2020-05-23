@@ -1,0 +1,15 @@
+{
+    "Name": "Go-nogo categorization and detection task",
+    "ReferencesAndLinks": [
+        "https://www.ncbi.nlm.nih.gov/pubmed/11244543",
+        "https://www.ncbi.nlm.nih.gov/pubmed/15019707",
+        "https://papers.cnl.salk.edu/PDFs/From%20Single-Trial%20EEG%20to%20Brain%20Area%20Dynamics%202002-3661.pdf"
+    ],
+    "BIDSVersion": "v1.2.1",
+    "License": "CC0",
+    "Authors": [
+        "Arnaud Delorme",
+        "Michele Fabre-Thorpe"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds002680.v1.0.0"
+}
