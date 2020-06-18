@@ -1,0 +1,46 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "second"
+  },
+  "value": {
+    "Description": "Value of event",
+    "Levels": {
+      "animal_target": "An image containing an animal that is a target in a go-nogo animal categorization task",
+      "easy_target": "An image containing an animal (easy to detect) that is a target in a single target image detection task",
+      "difficult_target": "An image containing an animal (hard to detect) that is a target in a single target image detection task",
+      "nonanimal_target": "An image not containing an animal that is a target in a single target image detection task",
+      "animal_distractor": "An image not containing an animal that is a distractor in a go-nogo animal categorization task",
+      "easy_distractor": "An image not containing an animal that is a distractor in a single target easy animal image detection task",
+      "difficult_distractor": "An image not containing an animal that is a distractor in a single target difficult animal image detection task",
+      "nonanimal_distractor": "An image not containing an animal that is a distractor in a single target non-animal image detection task",
+      "correct": "Correct response",
+      "incorrect": "Incorrect response"
+    }
+  },
+  "trial_type": {
+    "Description": "Type of event",
+    "Levels": {
+      "go": "Go-type trial in go-no task",
+      "nogo": "No-go type trial in go-no task",
+      "responses": "Behavioral response"
+    }
+  },
+  "stim_type": {
+    "Description": "Stimulus image presented"
+  },
+  "response_time": {
+    "Description": "Reaction time",
+    "Units": "millisecond"
+  },
+  "correct": {
+    "Description": "Correct or incorrect responses",
+    "Levels": {
+      "0": "Incorect response",
+      "1": "Correct response"
+    }
+  },
+  "HED": {
+    "Description": "Hierarchical Event Descricptor"
+  }
+}
