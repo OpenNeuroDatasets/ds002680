@@ -4,6 +4,6 @@
   "BIDSVersion": "v1.2.1",
   "License": "CC0",
   "Authors": ["Arnaud Delorme"],
-  "DatasetDOI": "10.18112\/openneuro.ds002680.v1.0.0","HEDVersion": "7.1.1"
-
+  "DatasetDOI": "10.18112\/openneuro.ds002680.v1.0.0",
+  "HEDVersion": "8.0.0"
 }
