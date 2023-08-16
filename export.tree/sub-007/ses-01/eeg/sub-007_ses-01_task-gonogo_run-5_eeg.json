@@ -1,0 +1,24 @@
+{
+  "InstitutionAddress": "Pavillon Baudot CHU Purpan, BP 25202, 31052 Toulouse Cedex",
+  "InstitutionName": "Paul Sabatier Universite",
+  "InstitutionalDepartmentName": "Centre de Recherche Cerveau et Cognition",
+  "PowerLineFrequency": 50,
+  "ManufacturersModelName": "Neuroscan Synamps 1 (model 5083)",
+  "TaskName": "gonogo",
+  "EEGChannelCount": 0,
+  "MiscChannelCount": 31,
+  "EEGReference": "common",
+  "RecordingType": "continuous",
+  "RecordingDuration": 232.28,
+  "SamplingFrequency": 1000,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": {
+    "FilterDescription": {
+      "Description": "n\/a"
+    }
+  },
+  "Instructions": "Participants were tested on two alternated tasks: a categorization task and a recognition task. Participants were instructed to start each block by pressing a touch-sensitive button. A small fixation point appeared in the middle of the black screen, then a photograph was flashed for 20 ms. Subjects were instructed to give a go\/no-go response by releasing the button as quickly as possible when a target-image was presented and by keeping their finger(s) on the button for non-target images. Any response given after 1000 ms was considered a no-go response. In the animal categorization task, subjects were instructed to respond if an animal was present in the picture. In the target-image recognition task, a given animal was assigned as the target. During a learning phase, participants were instructed to carefully inspect and memorize the target-image to ensure a quick and precise response in the testing block that immediately followed. ",
+  "TaskDescription": "Two alternated tasks were presented to participants: a categorization task and a recognition task. Subjects began each block of image flashing by pressing a button. Subjects were instructed to give a go\/no-go response by releasing the button as quickly as possible when a target-image was presented and by keeping their finger(s) on the button for non-target images. In the animal categorization task, subjects were instructed to respond if an animal was present in the picture. In the target-image recognition task, participants memorized a given animal during a learning phase that was assigned as the target for the following blocks."
+}

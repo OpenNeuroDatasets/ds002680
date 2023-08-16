@@ -1,0 +1,16 @@
+{
+  "type": {
+    "HED": {
+      "difficult_target": "Experimental-stimulus, Target, Complex, (Photograph, Animal)",
+      "nonanimal_target": "Experimental-stimulus, Target, (Photograph, (Not-equal-to, Animal))",
+      "easy_distractor": "Experimental-stimulus, Distractor, Simple, (Photograph, (Not-equal-to, Animal))",
+      "correct": "Participant-response, Correct-action, (Finger, Release)",
+      "incorrect": "Participant-response, Incorrect-action, (Finger, Hold-down)",
+      "easy_target": "Experimental-stimulus, Target, Simple, (Photograph, Animal)",
+      "animal_distractor": "Experimental-stimulus, Distractor, (Photograph, (Not-equal-to, Animal))",
+      "difficult_distractor": "Experimental-stimulus, Distractor, Complex, (Photograph, (Not-equal-to, Animal))",
+      "animal_target": "Experimental-stimulus, Target, (Photograph, Animal)",
+      "nonanimal_distractor": "Experimental-stimulus, Distractor, (Photograph, (Not-equal-to, Animal))"
+    }
+  }
+}
